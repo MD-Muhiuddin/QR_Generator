@@ -81,12 +81,6 @@ All generated QR images will be saved in the specified folder.
 
 ---
 
-## 🪪 License
-
-You can use [MIT License](https://choosealicense.com/licenses/mit/) or any other open-source license if needed.
-
----
-
 ## 👨‍💻 Author
 
-- Developed by [Your Name Here]
+- Developed by MD Muhiuddin
