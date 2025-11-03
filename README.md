@@ -1,4 +1,4 @@
-# QR Code Generator CLI (Python)
+# QR Code Generator CLI 
 
 This project is a simple **Command Line Interface (CLI)** QR Code Generator written in **Python**. It reads URLs (or any text) from a `.txt` file and generates corresponding QR Code images.
 
